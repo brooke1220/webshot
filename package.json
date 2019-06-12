@@ -1,0 +1,19 @@
+{
+  "name": "image",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "gm": "^1.23.1",
+    "md5-node": "^1.0.1",
+    "mime": "^2.4.4",
+    "webshot": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "brooke",
+  "license": "MIT",
+  "description": ""
+}
